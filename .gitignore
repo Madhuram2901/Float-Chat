@@ -1,5 +1,12 @@
-# Dependencies
+# Node
 node_modules/
+frontend/node_modules/
+
+# Vite cache
+.vite/
+frontend/.vite/
+
+# Python
 __pycache__/
 *.pyc
 *.pyo
